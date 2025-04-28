@@ -1,0 +1,1 @@
+D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\variable_declaration\target\debug\variable_declaration.exe: D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\variable_declaration\src\main.rs

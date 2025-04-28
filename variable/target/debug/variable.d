@@ -1,1 +1,0 @@
-D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\variable\target\debug\variable.exe: D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\variable\src\main.rs

@@ -1,0 +1,1 @@
+D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\input_and_output\target\debug\input_and_output.exe: D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\input_and_output\src\main.rs
