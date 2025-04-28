@@ -1,0 +1,1 @@
+D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\loop_and_iterable\target\debug\loop_and_iterable.exe: D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\loop_and_iterable\src\main.rs
