@@ -1,0 +1,1 @@
+D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\working_with_string\target\debug\working_with_string.exe: D:\MyFiles\Software\ Engineering\Programming\ Language\Rust\Project\Tutorial\working_with_string\src\main.rs
